@@ -1,0 +1,9 @@
+.kutija{
+    background-color: rgb(48, 42, 165);
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: bold;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 20px;
+}
